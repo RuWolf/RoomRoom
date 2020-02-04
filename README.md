@@ -23,4 +23,4 @@ npm install
 cd backend/
 npm start
 ```
-Фронт запустится на <https://www.localhost5000>
+Запустится на <https://www.localhost5000>
